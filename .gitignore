@@ -8,13 +8,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # =========================
-# Variables de entorno
-# =========================
-.env
-.env.*
-!.env.example
-
-# =========================
 # Logs
 # =========================
 logs/
