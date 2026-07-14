@@ -1,0 +1,19 @@
+# Server Configuration
+PORT=3002
+NODE_ENV=development
+
+# MongoDB
+URI_MONGODB=mongodb://localhost:27017/eventos
+
+# ==================================================
+# LAS SIGUIENTES VARIABLES SE INTEGRARÁN MÁS ADELANTE
+# ==================================================
+
+# JWT (Se integrará al final)
+# JWT_SECRET=your_secret_key_here
+# JWT_EXPIRE=24h
+
+# Cloudinary (Para subida de imágenes - Se integrará después)
+# CLOUDINARY_CLOUD_NAME=your_cloud_name
+# CLOUDINARY_API_KEY=your_api_key
+# CLOUDINARY_API_SECRET=your_api_secret
